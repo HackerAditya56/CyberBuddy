@@ -210,6 +210,6 @@ I am a Class 10 student ready to build the future of security. I have the archit
 
 *   **Developer:** Aditya Nandan
 *   **Email:** adityanandan137@gmail.com
-*   **Website:** [Link to your Vercel site]
+*   **Website:** https://hackeraditya56.github.io/CyberBuddy/
 *   **Current Hardware:** Acer Aspire A715-76G (GeForce RTX 3050 Mobile - 4GB).
 *   **Dream Hardware:** Nvidia DGX Spark / DGX Station / A100 / H100 access
