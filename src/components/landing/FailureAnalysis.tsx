@@ -1,13 +1,6 @@
 "use client";
 import React from "react";
 import { BentoGrid, BentoGridItem } from "../ui/bento-grid";
-import {
-    IconBrain,
-    IconCpu,
-    IconServer,
-    IconAlertTriangle,
-    IconLock
-} from "@tabler/icons-react"; // Note: Using lucide-react in main page, but tabler is cool for bento. Let's stick to Lucide actually or basic SVGs to avoid package bloat if tabler isn't installed. User said Lucide React.
 import { Brain, Cpu, Server, Activity, Lock } from "lucide-react";
 
 export function FailureAnalysis() {
